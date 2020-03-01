@@ -1,0 +1,12 @@
+[package]
+name = "settimeout"
+description = "Creates a Future after a delay"
+homepage = "https://github.com/rousan/settimeout-rs"
+keywords = ["rust", "future", "settimeout", "timeout", "promise"]
+categories = ["network-programming", "asynchronous"]
+version = "0.1.0"
+authors = ["Rousan Ali <rousanali786@gmail.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
