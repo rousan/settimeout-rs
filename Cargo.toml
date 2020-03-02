@@ -4,9 +4,10 @@ description = "Creates a std::future::Future implementation to be ready at some 
 homepage = "https://github.com/rousan/settimeout-rs"
 keywords = ["rust", "future", "settimeout", "timeout", "promise"]
 categories = ["asynchronous"]
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Rousan Ali <rousanali786@gmail.com>"]
 edition = "2018"
+readme = "README.md"
 license = "MIT"
 
 [dependencies]
