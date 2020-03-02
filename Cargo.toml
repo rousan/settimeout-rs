@@ -1,12 +1,15 @@
 [package]
 name = "settimeout"
-description = "Creates a Future after a delay"
+description = "Creates a std::future::Future implementation to be ready at some point"
 homepage = "https://github.com/rousan/settimeout-rs"
 keywords = ["rust", "future", "settimeout", "timeout", "promise"]
-categories = ["network-programming", "asynchronous"]
+categories = ["asynchronous"]
 version = "0.1.0"
 authors = ["Rousan Ali <rousanali786@gmail.com>"]
 edition = "2018"
 license = "MIT"
 
 [dependencies]
+
+[dev-dependencies]
+futures = "0.3.4"
