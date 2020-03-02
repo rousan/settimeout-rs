@@ -13,7 +13,7 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-settimeout = "0.1.1"
+settimeout = "0.1.2"
 ```
 
 ## Examples
