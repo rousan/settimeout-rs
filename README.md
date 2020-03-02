@@ -1,5 +1,5 @@
 [![Crate](https://img.shields.io/crates/v/settimeout.svg)](https://crates.io/crates/settimeout)
-[![API](https://docs.rs/settimeout/badge.svg)](https://docs.rs/settimeout)
+[![API](https://docs.rs/settimeout/badge.svg)](https://docs.rs/settimeout/)
 [![Minimum rustc version](https://img.shields.io/badge/rustc-1.39+-green.svg)](https://github.com/rousan/settimeout-rs)
 
 # settimeout-rs
@@ -13,7 +13,7 @@ Add this to your Cargo.toml:
 
 ```toml
 [dependencies]
-settimeout = "0.1.0"
+settimeout = "0.1.1"
 ```
 
 ## Examples
